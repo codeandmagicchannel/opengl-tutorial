@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLSetup", "OpenGLSetup\OpenGLSetup.vcxproj", "{B47EB404-7465-4A0F-B197-649C8A108D45}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWindow", "HelloWindow\HelloWindow.vcxproj", "{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B47EB404-7465-4A0F-B197-649C8A108D45}.Release|x64.Build.0 = Release|x64
 		{B47EB404-7465-4A0F-B197-649C8A108D45}.Release|x86.ActiveCfg = Release|Win32
 		{B47EB404-7465-4A0F-B197-649C8A108D45}.Release|x86.Build.0 = Release|Win32
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Debug|x64.ActiveCfg = Debug|x64
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Debug|x64.Build.0 = Debug|x64
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Debug|x86.Build.0 = Debug|Win32
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Release|x64.ActiveCfg = Release|x64
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Release|x64.Build.0 = Release|x64
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Release|x86.ActiveCfg = Release|Win32
+		{3B08BD0E-8ED1-490B-A0DC-745CB2883C55}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
